@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name"> </string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="String1">Thank you for taking the time to review my application for the Android Mobile Engineer Apprentice position and for reviewing this assessment.\n\nPer the instructions, this app will obtain data from the specified location, sort and filter it accordingly, and display it to the user.\n\nTo access the data, simply press the \"Access Sample Data\" button located below. Then, scroll to view all of the data.</string>
+    <string name="beginButton">Access Sample Data</string>
+    <string name="getDataButton">Access Sample Data</string>
+</resources>
